@@ -1,0 +1,16 @@
+.notify .alert {
+  border: none;
+  -webkit-box-shadow: 0 2px 10px 0 rgba(24, 28, 33, 0.04);
+          box-shadow: 0 2px 10px 0 rgba(24, 28, 33, 0.04);
+}
+
+.notify .alert .alert-heading {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.notify.open {
+  -webkit-transform: translate(0);
+          transform: translate(0);
+}
+/*# sourceMappingURL=notification.css.map */

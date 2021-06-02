@@ -1,0 +1,8 @@
+export const GET_STOCK = "GET_STOCK"
+export const CREATE_OUTLETSTOCK = "CREATE_OUTLETSTOCK"
+export const STORE_PRODUCT = "STORE_PRODUCT"
+export const STORE_NAME = "STORE_NAME"
+export const START_SPINNER = "START_SPINNER"
+export const REMOVE_STOCK = "REMOVE_STOCK"
+export const CLEAR_STOCK = "CLEAR_STOCK"
+export const STOCK_ERROR = "STOCK_ERROR"

@@ -1,0 +1,31 @@
+footer {
+  padding: 10px 0;
+}
+
+footer .container, footer .container-fluid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer * {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-size: 12px;
+}
+
+footer .nav a {
+  padding: 5px 0;
+  margin-left: 15px;
+}
+
+footer .nav a:hover {
+  background: none !important;
+}
+/*# sourceMappingURL=footer.css.map */
